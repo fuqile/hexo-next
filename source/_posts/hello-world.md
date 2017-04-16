@@ -39,6 +39,6 @@ More info: [Deployment](https://hexo.io/docs/deployment.html)
 
 ``` java
 public void test(){
-    System.out.println("test");
+    System.out.println("test,test");
 }
 ```

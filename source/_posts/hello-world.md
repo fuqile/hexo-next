@@ -36,3 +36,9 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+``` java
+public void test(){
+    System.out.println("test");
+}
+```

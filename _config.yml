@@ -7,7 +7,7 @@ title: githing's blog
 subtitle:
 description: 贵在坚持
 author: githing
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -67,3 +67,9 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
